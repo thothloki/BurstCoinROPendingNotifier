@@ -1,4 +1,4 @@
-# BurstCoinROPendingNotifier
+# BurstCoin.RO Pending Notifier
 
 This is a desktop notifier app that allows you to see what your pending balance is for the BurstCoin.RO burst pools
 
