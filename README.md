@@ -30,7 +30,7 @@ Integrade png image into exe file
 Add logging feature
 If you enjoy this app and feel like donating, that would be greatly appreciated:
 
-BURST: BURST-QCL8-NXGJ-L5WD-35KXA
+BURST: BURST-NN2Q-K695-SVBH-8RV4V
 
 LTC: LQF2fTV42zvQEQZ4CGvVgfr1eTCVfHKedC
 
@@ -40,4 +40,4 @@ XTL: Se3GdnGbpQNbnMhDwVQ6Pd2E3FEA2SYBzLqsqRu4NLZmRbwr6MCB9upNrGAetk2iq3gUB8oHa5m
 
 ETN: etnkN25ezb96s7aRbqajd1EYjZCCNhLT47nDHsmyc3uhQABr4RzZ989ahxekNhvCgFKuE3WBtBXXBeWsKB13wLZJ5eEKT3LePp
 
-IPBC: bxc3eVkgTZZ4yiahRkGiqBjDzLC22AN3uWZzLfuhuRoENARFzAxCjrFekkzyEoDsARQUaG9JTLWCFT8L6jF9ngkD2ivDCxovL
+BitTube: bxc3eVkgTZZ4yiahRkGiqBjDzLC22AN3uWZzLfuhuRoENARFzAxCjrFekkzyEoDsARQUaG9JTLWCFT8L6jF9ngkD2ivDCxovL
