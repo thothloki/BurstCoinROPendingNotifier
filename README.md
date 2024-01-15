@@ -23,21 +23,3 @@ I have included the icon and image files required for this. If you have the rele
 On the first close of the app, a settings.ini file will appear. This is holding the settings you had running (Burst Address or Numeric ID, pool selection and custom refresh time).
 
 If you do not select a custom refresh time, it will default to every hour.
-
-Future Edits on the List:
-
-Integrade png image into exe file
-Add logging feature
-If you enjoy this app and feel like donating, that would be greatly appreciated:
-
-BURST: BURST-NN2Q-K695-SVBH-8RV4V
-
-LTC: LQF2fTV42zvQEQZ4CGvVgfr1eTCVfHKedC
-
-BTC: 3CQRAUkBVe6k9fPiYMuu8B5R87HPnEYsex
-
-XTL: Se3GdnGbpQNbnMhDwVQ6Pd2E3FEA2SYBzLqsqRu4NLZmRbwr6MCB9upNrGAetk2iq3gUB8oHa5mA5h2T3sXh4vzf2iV8owuJh
-
-ETN: etnkN25ezb96s7aRbqajd1EYjZCCNhLT47nDHsmyc3uhQABr4RzZ989ahxekNhvCgFKuE3WBtBXXBeWsKB13wLZJ5eEKT3LePp
-
-BitTube: bxc3eVkgTZZ4yiahRkGiqBjDzLC22AN3uWZzLfuhuRoENARFzAxCjrFekkzyEoDsARQUaG9JTLWCFT8L6jF9ngkD2ivDCxovL
